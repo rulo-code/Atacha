@@ -1,0 +1,21 @@
+.navbar {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+
+  background-color: #312b2b;
+
+  border-radius: 2rem;
+}
+
+.navbarItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+
+  color: #fafafa;
+}

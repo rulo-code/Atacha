@@ -1,8 +1,9 @@
 import React from "react"
-import Header from "./Header"
+import Header from "./Header/Header"
 interface IProps {
   children: React.ReactNode
 }
+
 const Page: React.FC<IProps> = ({ children }) => {
   return (
     <>
